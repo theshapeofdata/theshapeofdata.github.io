@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Ashwini Petchiappan"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Shaping data for environmental strategy."
   links:
     - label: "Website"
