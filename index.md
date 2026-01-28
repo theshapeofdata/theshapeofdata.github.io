@@ -4,7 +4,7 @@ title: ""
 ---
 
 <!-- Profile Photo -->
-![Ashwini Petchiappan](/assets/images/profile.jpg){: style="width:150px; border-radius:50%; display:block; margin:auto;" }
+![Ashwini Petchiappan](/assets/images/bio-photo.jpeg){: style="width:150px; border-radius:50%; display:block; margin:auto;" }
 
 
 <!-- Name & Tagline -->
