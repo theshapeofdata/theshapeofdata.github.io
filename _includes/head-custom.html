@@ -1,17 +1,19 @@
 <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
 
 <style>
-  html, body {
+  /* FORCE fonts for remote_theme */
+  html, body, .site, .site-wrapper, .site-inner, .page-wrapper {
     font-family: 'Lora', serif !important;
   }
-  h1, h2, h3, h4, h5, h6 {
+
+  h1, h2, h3, h4, h5, h6, .page-title, .entry-title {
     font-family: 'Playfair Display', serif !important;
   }
 
   /* Emerald accent buttons */
   .button-accent {
-    background-color: #10B981;
-    color: #fff;
+    background-color: #10B981 !important;
+    color: #fff !important;
     padding: 0.6rem 1.2rem;
     border-radius: 0.5rem;
     text-decoration: none;
@@ -19,7 +21,7 @@
     transition: background-color 0.2s ease;
   }
   .button-accent:hover {
-    background-color: #059669;
+    background-color: #059669 !important;
   }
 
   a {
