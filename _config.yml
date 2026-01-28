@@ -36,6 +36,7 @@ collections:
   posts:
     output: false
 
+head_custom: "_includes/head-custom.html"
 
 include:
   - _pages
